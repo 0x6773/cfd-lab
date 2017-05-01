@@ -36,7 +36,7 @@ string decrypt(string cipher_text)
 
 int main()
 {
-    string me = "DUSHYANT";
+    string me = "IITBHU";
     cout << "Encrypted message : " << encrypt(me) << endl;
     cout << "Decrypted message : " << decrypt(encrypt(me));
 
